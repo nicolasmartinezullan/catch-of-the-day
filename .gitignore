@@ -1,0 +1,10 @@
+node_modules/
+*.zip
+.DS_Store
+.idea
+notes.md
+
+// Ignore all from build
+build/*
+// Except this file
+!build/_redirects
